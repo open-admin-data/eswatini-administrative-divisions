@@ -1,0 +1,45 @@
+{
+  "id": "SZ340",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Shiselweni",
+    "en": "Shiselweni",
+    "slug": "shiselweni-sz340"
+  },
+  "code": {
+    "id": "SZ340",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ3",
+    "level": 1,
+    "name": {
+      "local": "Shiselweni",
+      "en": "Shiselweni",
+      "slug": "shiselweni-sz3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.233",
+    "lon": "31.441"
+  },
+  "metadata": {},
+  "source": {}
+}

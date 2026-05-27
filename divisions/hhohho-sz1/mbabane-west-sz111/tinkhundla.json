@@ -1,0 +1,45 @@
+{
+  "id": "SZ111",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Mbabane West",
+    "en": "Mbabane West",
+    "slug": "mbabane-west-sz111"
+  },
+  "code": {
+    "id": "SZ111",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ1",
+    "level": 1,
+    "name": {
+      "local": "Hhohho",
+      "en": "Hhohho",
+      "slug": "hhohho-sz1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.329",
+    "lon": "31.109"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SZ113",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Hhukwini",
+      "en": "Hhukwini",
+      "slug": "hhukwini-sz113"
+    },
+    "code": {
+      "id": "SZ113",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.328",
+      "lon": "31.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ114",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Lobamba",
+      "en": "Lobamba",
+      "slug": "lobamba-sz114"
+    },
+    "code": {
+      "id": "SZ114",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.411",
+      "lon": "31.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ106",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Madlangempisi",
+      "en": "Madlangempisi",
+      "slug": "madlangempisi-sz106"
+    },
+    "code": {
+      "id": "SZ106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.092",
+      "lon": "31.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ107",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Maphalaleni",
+      "en": "Maphalaleni",
+      "slug": "maphalaleni-sz107"
+    },
+    "code": {
+      "id": "SZ107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.203",
+      "lon": "31.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ103",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mayiwane",
+      "en": "Mayiwane",
+      "slug": "mayiwane-sz103"
+    },
+    "code": {
+      "id": "SZ103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.855",
+      "lon": "31.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ112",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mbabane East",
+      "en": "Mbabane East",
+      "slug": "mbabane-east-sz112"
+    },
+    "code": {
+      "id": "SZ112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.303",
+      "lon": "31.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ111",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mbabane West",
+      "en": "Mbabane West",
+      "slug": "mbabane-west-sz111"
+    },
+    "code": {
+      "id": "SZ111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.329",
+      "lon": "31.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ104",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mhlangatane",
+      "en": "Mhlangatane",
+      "slug": "mhlangatane-sz104"
+    },
+    "code": {
+      "id": "SZ104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.933",
+      "lon": "31.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ110",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Motjane",
+      "en": "Motjane",
+      "slug": "motjane-sz110"
+    },
+    "code": {
+      "id": "SZ110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.299",
+      "lon": "31.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ105",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Ndzingeni",
+      "en": "Ndzingeni",
+      "slug": "ndzingeni-sz105"
+    },
+    "code": {
+      "id": "SZ105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.006",
+      "lon": "31.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ109",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Nkhaba",
+      "en": "Nkhaba",
+      "slug": "nkhaba-sz109"
+    },
+    "code": {
+      "id": "SZ109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.129",
+      "lon": "31.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ102",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Ntfonjeni",
+      "en": "Ntfonjeni",
+      "slug": "ntfonjeni-sz102"
+    },
+    "code": {
+      "id": "SZ102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.821",
+      "lon": "31.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ108",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Pigg's Peak",
+      "en": "Pigg's Peak",
+      "slug": "piggs-peak-sz108"
+    },
+    "code": {
+      "id": "SZ108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.96",
+      "lon": "31.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ101",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Timphisini",
+      "en": "Timphisini",
+      "slug": "timphisini-sz101"
+    },
+    "code": {
+      "id": "SZ101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ1",
+        "level": 1,
+        "name": {
+          "local": "Hhohho",
+          "en": "Hhohho",
+          "slug": "hhohho-sz1"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.781",
+      "lon": "31.437"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

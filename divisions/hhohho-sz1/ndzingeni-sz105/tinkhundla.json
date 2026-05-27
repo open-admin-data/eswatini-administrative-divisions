@@ -1,0 +1,45 @@
+{
+  "id": "SZ105",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Ndzingeni",
+    "en": "Ndzingeni",
+    "slug": "ndzingeni-sz105"
+  },
+  "code": {
+    "id": "SZ105",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ1",
+    "level": 1,
+    "name": {
+      "local": "Hhohho",
+      "en": "Hhohho",
+      "slug": "hhohho-sz1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.006",
+    "lon": "31.447"
+  },
+  "metadata": {},
+  "source": {}
+}

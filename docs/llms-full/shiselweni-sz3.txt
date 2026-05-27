@@ -1,0 +1,79 @@
+# Shiselweni — Eswatini Administrative Divisions
+
+> 14 tinkhundlas
+> Code: SZ3
+> Coordinates: -27.036, 31.331
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Tinkhundlas
+
+### Gege
+
+Code: SZ334, Coordinates: -26.93, 31.082
+
+
+### Hosea
+
+Code: SZ341, Coordinates: -27.164, 31.546
+
+
+### Kubuta
+
+Code: SZ331, Coordinates: -26.836, 31.462
+
+
+### Maseyisini
+
+Code: SZ336, Coordinates: -27.118, 31.124
+
+
+### Matsanjeni South
+
+Code: SZ343, Coordinates: -27.188, 31.72
+
+
+### Mbangweni
+
+Code: SZ335, Coordinates: -27.05, 31.258
+
+
+### Mtsambama
+
+Code: SZ333, Coordinates: -26.952, 31.389
+
+
+### Ngudzeni
+
+Code: SZ338, Coordinates: -27.042, 31.55
+
+
+### Nkwene
+
+Code: SZ332, Coordinates: -26.897, 31.278
+
+
+### Sandleni
+
+Code: SZ337, Coordinates: -27.074, 31.43
+
+
+### Shiselweni
+
+Code: SZ340, Coordinates: -27.233, 31.441
+
+
+### Sigwe
+
+Code: SZ342, Coordinates: -27.064, 31.674
+
+
+### Somntongo
+
+Code: SZ344, Coordinates: -27.203, 31.893
+
+
+### Zombodze
+
+Code: SZ339, Coordinates: -27.188, 31.33
+
+

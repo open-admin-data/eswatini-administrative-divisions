@@ -1,0 +1,45 @@
+{
+  "id": "SZ216",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Kukhanyeni",
+    "en": "Kukhanyeni",
+    "slug": "kukhanyeni-sz216"
+  },
+  "code": {
+    "id": "SZ216",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.371",
+    "lon": "31.419"
+  },
+  "metadata": {},
+  "source": {}
+}

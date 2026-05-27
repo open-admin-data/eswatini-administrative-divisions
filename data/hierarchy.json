@@ -1,0 +1,718 @@
+[
+  {
+    "id": "SZ1",
+    "name": {
+      "local": "Hhohho",
+      "en": "Hhohho",
+      "slug": "hhohho-sz1"
+    },
+    "code": {
+      "id": "SZ1",
+      "iso": null
+    },
+    "tinkhundla": [
+      {
+        "id": "SZ101",
+        "name": {
+          "local": "Timphisini",
+          "en": "Timphisini",
+          "slug": "timphisini-sz101"
+        },
+        "code": {
+          "id": "SZ101",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ102",
+        "name": {
+          "local": "Ntfonjeni",
+          "en": "Ntfonjeni",
+          "slug": "ntfonjeni-sz102"
+        },
+        "code": {
+          "id": "SZ102",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ103",
+        "name": {
+          "local": "Mayiwane",
+          "en": "Mayiwane",
+          "slug": "mayiwane-sz103"
+        },
+        "code": {
+          "id": "SZ103",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ104",
+        "name": {
+          "local": "Mhlangatane",
+          "en": "Mhlangatane",
+          "slug": "mhlangatane-sz104"
+        },
+        "code": {
+          "id": "SZ104",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ105",
+        "name": {
+          "local": "Ndzingeni",
+          "en": "Ndzingeni",
+          "slug": "ndzingeni-sz105"
+        },
+        "code": {
+          "id": "SZ105",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ106",
+        "name": {
+          "local": "Madlangempisi",
+          "en": "Madlangempisi",
+          "slug": "madlangempisi-sz106"
+        },
+        "code": {
+          "id": "SZ106",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ107",
+        "name": {
+          "local": "Maphalaleni",
+          "en": "Maphalaleni",
+          "slug": "maphalaleni-sz107"
+        },
+        "code": {
+          "id": "SZ107",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ108",
+        "name": {
+          "local": "Pigg's Peak",
+          "en": "Pigg's Peak",
+          "slug": "piggs-peak-sz108"
+        },
+        "code": {
+          "id": "SZ108",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ109",
+        "name": {
+          "local": "Nkhaba",
+          "en": "Nkhaba",
+          "slug": "nkhaba-sz109"
+        },
+        "code": {
+          "id": "SZ109",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ110",
+        "name": {
+          "local": "Motjane",
+          "en": "Motjane",
+          "slug": "motjane-sz110"
+        },
+        "code": {
+          "id": "SZ110",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ111",
+        "name": {
+          "local": "Mbabane West",
+          "en": "Mbabane West",
+          "slug": "mbabane-west-sz111"
+        },
+        "code": {
+          "id": "SZ111",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ112",
+        "name": {
+          "local": "Mbabane East",
+          "en": "Mbabane East",
+          "slug": "mbabane-east-sz112"
+        },
+        "code": {
+          "id": "SZ112",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ113",
+        "name": {
+          "local": "Hhukwini",
+          "en": "Hhukwini",
+          "slug": "hhukwini-sz113"
+        },
+        "code": {
+          "id": "SZ113",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ114",
+        "name": {
+          "local": "Lobamba",
+          "en": "Lobamba",
+          "slug": "lobamba-sz114"
+        },
+        "code": {
+          "id": "SZ114",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "SZ4",
+    "name": {
+      "local": "Lubombo",
+      "en": "Lubombo",
+      "slug": "lubombo-sz4"
+    },
+    "code": {
+      "id": "SZ4",
+      "iso": null
+    },
+    "tinkhundla": [
+      {
+        "id": "SZ445",
+        "name": {
+          "local": "Lubuli",
+          "en": "Lubuli",
+          "slug": "lubuli-sz445"
+        },
+        "code": {
+          "id": "SZ445",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ446",
+        "name": {
+          "local": "Sithobela",
+          "en": "Sithobela",
+          "slug": "sithobela-sz446"
+        },
+        "code": {
+          "id": "SZ446",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ447",
+        "name": {
+          "local": "Nkilongo",
+          "en": "Nkilongo",
+          "slug": "nkilongo-sz447"
+        },
+        "code": {
+          "id": "SZ447",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ448",
+        "name": {
+          "local": "Siphofaneni",
+          "en": "Siphofaneni",
+          "slug": "siphofaneni-sz448"
+        },
+        "code": {
+          "id": "SZ448",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ449",
+        "name": {
+          "local": "Mpolonjeni",
+          "en": "Mpolonjeni",
+          "slug": "mpolonjeni-sz449"
+        },
+        "code": {
+          "id": "SZ449",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ450",
+        "name": {
+          "local": "Matsanjeni North",
+          "en": "Matsanjeni North",
+          "slug": "matsanjeni-north-sz450"
+        },
+        "code": {
+          "id": "SZ450",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ451",
+        "name": {
+          "local": "Lugongolweni",
+          "en": "Lugongolweni",
+          "slug": "lugongolweni-sz451"
+        },
+        "code": {
+          "id": "SZ451",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ452",
+        "name": {
+          "local": "Dvokodvweni",
+          "en": "Dvokodvweni",
+          "slug": "dvokodvweni-sz452"
+        },
+        "code": {
+          "id": "SZ452",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ453",
+        "name": {
+          "local": "Hlane",
+          "en": "Hlane",
+          "slug": "hlane-sz453"
+        },
+        "code": {
+          "id": "SZ453",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ454",
+        "name": {
+          "local": "Mhlume",
+          "en": "Mhlume",
+          "slug": "mhlume-sz454"
+        },
+        "code": {
+          "id": "SZ454",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ455",
+        "name": {
+          "local": "Lomahasha",
+          "en": "Lomahasha",
+          "slug": "lomahasha-sz455"
+        },
+        "code": {
+          "id": "SZ455",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "SZ2",
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    },
+    "code": {
+      "id": "SZ2",
+      "iso": null
+    },
+    "tinkhundla": [
+      {
+        "id": "SZ215",
+        "name": {
+          "local": "Mkhiweni",
+          "en": "Mkhiweni",
+          "slug": "mkhiweni-sz215"
+        },
+        "code": {
+          "id": "SZ215",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ216",
+        "name": {
+          "local": "Kukhanyeni",
+          "en": "Kukhanyeni",
+          "slug": "kukhanyeni-sz216"
+        },
+        "code": {
+          "id": "SZ216",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ217",
+        "name": {
+          "local": "Mafutseni",
+          "en": "Mafutseni",
+          "slug": "mafutseni-sz217"
+        },
+        "code": {
+          "id": "SZ217",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ218",
+        "name": {
+          "local": "Mthongwaneni",
+          "en": "Mthongwaneni",
+          "slug": "mthongwaneni-sz218"
+        },
+        "code": {
+          "id": "SZ218",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ219",
+        "name": {
+          "local": "Manzini North",
+          "en": "Manzini North",
+          "slug": "manzini-north-sz219"
+        },
+        "code": {
+          "id": "SZ219",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ220",
+        "name": {
+          "local": "Manzini South",
+          "en": "Manzini South",
+          "slug": "manzini-south-sz220"
+        },
+        "code": {
+          "id": "SZ220",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ221",
+        "name": {
+          "local": "Kwaluseni",
+          "en": "Kwaluseni",
+          "slug": "kwaluseni-sz221"
+        },
+        "code": {
+          "id": "SZ221",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ222",
+        "name": {
+          "local": "Ludzeludze",
+          "en": "Ludzeludze",
+          "slug": "ludzeludze-sz222"
+        },
+        "code": {
+          "id": "SZ222",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ223",
+        "name": {
+          "local": "Lobamba Lomdzala",
+          "en": "Lobamba Lomdzala",
+          "slug": "lobamba-lomdzala-sz223"
+        },
+        "code": {
+          "id": "SZ223",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ224",
+        "name": {
+          "local": "Nhlambeni",
+          "en": "Nhlambeni",
+          "slug": "nhlambeni-sz224"
+        },
+        "code": {
+          "id": "SZ224",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ225",
+        "name": {
+          "local": "Ntondozi",
+          "en": "Ntondozi",
+          "slug": "ntondozi-sz225"
+        },
+        "code": {
+          "id": "SZ225",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ226",
+        "name": {
+          "local": "La-Mgabhi",
+          "en": "La-Mgabhi",
+          "slug": "la-mgabhi-sz226"
+        },
+        "code": {
+          "id": "SZ226",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ227",
+        "name": {
+          "local": "Mhlambanyatsi",
+          "en": "Mhlambanyatsi",
+          "slug": "mhlambanyatsi-sz227"
+        },
+        "code": {
+          "id": "SZ227",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ228",
+        "name": {
+          "local": "Mangcongco",
+          "en": "Mangcongco",
+          "slug": "mangcongco-sz228"
+        },
+        "code": {
+          "id": "SZ228",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ229",
+        "name": {
+          "local": "Ngwempisi",
+          "en": "Ngwempisi",
+          "slug": "ngwempisi-sz229"
+        },
+        "code": {
+          "id": "SZ229",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ230",
+        "name": {
+          "local": "Mahlangatsha",
+          "en": "Mahlangatsha",
+          "slug": "mahlangatsha-sz230"
+        },
+        "code": {
+          "id": "SZ230",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "SZ3",
+    "name": {
+      "local": "Shiselweni",
+      "en": "Shiselweni",
+      "slug": "shiselweni-sz3"
+    },
+    "code": {
+      "id": "SZ3",
+      "iso": null
+    },
+    "tinkhundla": [
+      {
+        "id": "SZ331",
+        "name": {
+          "local": "Kubuta",
+          "en": "Kubuta",
+          "slug": "kubuta-sz331"
+        },
+        "code": {
+          "id": "SZ331",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ332",
+        "name": {
+          "local": "Nkwene",
+          "en": "Nkwene",
+          "slug": "nkwene-sz332"
+        },
+        "code": {
+          "id": "SZ332",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ333",
+        "name": {
+          "local": "Mtsambama",
+          "en": "Mtsambama",
+          "slug": "mtsambama-sz333"
+        },
+        "code": {
+          "id": "SZ333",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ334",
+        "name": {
+          "local": "Gege",
+          "en": "Gege",
+          "slug": "gege-sz334"
+        },
+        "code": {
+          "id": "SZ334",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ335",
+        "name": {
+          "local": "Mbangweni",
+          "en": "Mbangweni",
+          "slug": "mbangweni-sz335"
+        },
+        "code": {
+          "id": "SZ335",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ336",
+        "name": {
+          "local": "Maseyisini",
+          "en": "Maseyisini",
+          "slug": "maseyisini-sz336"
+        },
+        "code": {
+          "id": "SZ336",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ337",
+        "name": {
+          "local": "Sandleni",
+          "en": "Sandleni",
+          "slug": "sandleni-sz337"
+        },
+        "code": {
+          "id": "SZ337",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ338",
+        "name": {
+          "local": "Ngudzeni",
+          "en": "Ngudzeni",
+          "slug": "ngudzeni-sz338"
+        },
+        "code": {
+          "id": "SZ338",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ339",
+        "name": {
+          "local": "Zombodze",
+          "en": "Zombodze",
+          "slug": "zombodze-sz339"
+        },
+        "code": {
+          "id": "SZ339",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ340",
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz340"
+        },
+        "code": {
+          "id": "SZ340",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ341",
+        "name": {
+          "local": "Hosea",
+          "en": "Hosea",
+          "slug": "hosea-sz341"
+        },
+        "code": {
+          "id": "SZ341",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ342",
+        "name": {
+          "local": "Sigwe",
+          "en": "Sigwe",
+          "slug": "sigwe-sz342"
+        },
+        "code": {
+          "id": "SZ342",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ343",
+        "name": {
+          "local": "Matsanjeni South",
+          "en": "Matsanjeni South",
+          "slug": "matsanjeni-south-sz343"
+        },
+        "code": {
+          "id": "SZ343",
+          "iso": null
+        }
+      },
+      {
+        "id": "SZ344",
+        "name": {
+          "local": "Somntongo",
+          "en": "Somntongo",
+          "slug": "somntongo-sz344"
+        },
+        "code": {
+          "id": "SZ344",
+          "iso": null
+        }
+      }
+    ]
+  }
+]

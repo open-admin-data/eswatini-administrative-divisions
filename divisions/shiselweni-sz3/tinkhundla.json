@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SZ334",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Gege",
+      "en": "Gege",
+      "slug": "gege-sz334"
+    },
+    "code": {
+      "id": "SZ334",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.93",
+      "lon": "31.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ341",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Hosea",
+      "en": "Hosea",
+      "slug": "hosea-sz341"
+    },
+    "code": {
+      "id": "SZ341",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.164",
+      "lon": "31.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ331",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Kubuta",
+      "en": "Kubuta",
+      "slug": "kubuta-sz331"
+    },
+    "code": {
+      "id": "SZ331",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.836",
+      "lon": "31.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ336",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Maseyisini",
+      "en": "Maseyisini",
+      "slug": "maseyisini-sz336"
+    },
+    "code": {
+      "id": "SZ336",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.118",
+      "lon": "31.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ343",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Matsanjeni South",
+      "en": "Matsanjeni South",
+      "slug": "matsanjeni-south-sz343"
+    },
+    "code": {
+      "id": "SZ343",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.188",
+      "lon": "31.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ335",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mbangweni",
+      "en": "Mbangweni",
+      "slug": "mbangweni-sz335"
+    },
+    "code": {
+      "id": "SZ335",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.05",
+      "lon": "31.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ333",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mtsambama",
+      "en": "Mtsambama",
+      "slug": "mtsambama-sz333"
+    },
+    "code": {
+      "id": "SZ333",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.952",
+      "lon": "31.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ338",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Ngudzeni",
+      "en": "Ngudzeni",
+      "slug": "ngudzeni-sz338"
+    },
+    "code": {
+      "id": "SZ338",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.042",
+      "lon": "31.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ332",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Nkwene",
+      "en": "Nkwene",
+      "slug": "nkwene-sz332"
+    },
+    "code": {
+      "id": "SZ332",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.897",
+      "lon": "31.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ337",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Sandleni",
+      "en": "Sandleni",
+      "slug": "sandleni-sz337"
+    },
+    "code": {
+      "id": "SZ337",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.074",
+      "lon": "31.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ340",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Shiselweni",
+      "en": "Shiselweni",
+      "slug": "shiselweni-sz340"
+    },
+    "code": {
+      "id": "SZ340",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.233",
+      "lon": "31.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ342",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Sigwe",
+      "en": "Sigwe",
+      "slug": "sigwe-sz342"
+    },
+    "code": {
+      "id": "SZ342",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.064",
+      "lon": "31.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ344",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Somntongo",
+      "en": "Somntongo",
+      "slug": "somntongo-sz344"
+    },
+    "code": {
+      "id": "SZ344",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.203",
+      "lon": "31.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ339",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Zombodze",
+      "en": "Zombodze",
+      "slug": "zombodze-sz339"
+    },
+    "code": {
+      "id": "SZ339",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ3",
+        "level": 1,
+        "name": {
+          "local": "Shiselweni",
+          "en": "Shiselweni",
+          "slug": "shiselweni-sz3"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.188",
+      "lon": "31.33"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

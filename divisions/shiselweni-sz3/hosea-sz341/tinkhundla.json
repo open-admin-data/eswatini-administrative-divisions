@@ -1,0 +1,45 @@
+{
+  "id": "SZ341",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Hosea",
+    "en": "Hosea",
+    "slug": "hosea-sz341"
+  },
+  "code": {
+    "id": "SZ341",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ3",
+    "level": 1,
+    "name": {
+      "local": "Shiselweni",
+      "en": "Shiselweni",
+      "slug": "shiselweni-sz3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.164",
+    "lon": "31.546"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SZ109",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Nkhaba",
+    "en": "Nkhaba",
+    "slug": "nkhaba-sz109"
+  },
+  "code": {
+    "id": "SZ109",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ1",
+    "level": 1,
+    "name": {
+      "local": "Hhohho",
+      "en": "Hhohho",
+      "slug": "hhohho-sz1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.129",
+    "lon": "31.138"
+  },
+  "metadata": {},
+  "source": {}
+}

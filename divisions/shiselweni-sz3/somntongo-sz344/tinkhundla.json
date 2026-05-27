@@ -1,0 +1,45 @@
+{
+  "id": "SZ344",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Somntongo",
+    "en": "Somntongo",
+    "slug": "somntongo-sz344"
+  },
+  "code": {
+    "id": "SZ344",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ3",
+    "level": 1,
+    "name": {
+      "local": "Shiselweni",
+      "en": "Shiselweni",
+      "slug": "shiselweni-sz3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.203",
+    "lon": "31.893"
+  },
+  "metadata": {},
+  "source": {}
+}

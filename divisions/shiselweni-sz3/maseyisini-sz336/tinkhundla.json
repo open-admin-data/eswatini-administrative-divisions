@@ -1,0 +1,45 @@
+{
+  "id": "SZ336",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Maseyisini",
+    "en": "Maseyisini",
+    "slug": "maseyisini-sz336"
+  },
+  "code": {
+    "id": "SZ336",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ3",
+    "level": 1,
+    "name": {
+      "local": "Shiselweni",
+      "en": "Shiselweni",
+      "slug": "shiselweni-sz3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.118",
+    "lon": "31.124"
+  },
+  "metadata": {},
+  "source": {}
+}

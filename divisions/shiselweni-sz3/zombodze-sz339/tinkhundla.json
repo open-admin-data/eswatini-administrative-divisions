@@ -1,0 +1,45 @@
+{
+  "id": "SZ339",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Zombodze",
+    "en": "Zombodze",
+    "slug": "zombodze-sz339"
+  },
+  "code": {
+    "id": "SZ339",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ3",
+    "level": 1,
+    "name": {
+      "local": "Shiselweni",
+      "en": "Shiselweni",
+      "slug": "shiselweni-sz3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ3",
+      "level": 1,
+      "name": {
+        "local": "Shiselweni",
+        "en": "Shiselweni",
+        "slug": "shiselweni-sz3"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.188",
+    "lon": "31.33"
+  },
+  "metadata": {},
+  "source": {}
+}

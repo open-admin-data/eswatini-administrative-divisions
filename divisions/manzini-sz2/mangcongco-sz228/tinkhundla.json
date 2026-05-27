@@ -1,0 +1,45 @@
+{
+  "id": "SZ228",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Mangcongco",
+    "en": "Mangcongco",
+    "slug": "mangcongco-sz228"
+  },
+  "code": {
+    "id": "SZ228",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.551",
+    "lon": "30.864"
+  },
+  "metadata": {},
+  "source": {}
+}

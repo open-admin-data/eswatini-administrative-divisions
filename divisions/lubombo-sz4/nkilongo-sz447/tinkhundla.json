@@ -1,0 +1,45 @@
+{
+  "id": "SZ447",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Nkilongo",
+    "en": "Nkilongo",
+    "slug": "nkilongo-sz447"
+  },
+  "code": {
+    "id": "SZ447",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ4",
+    "level": 1,
+    "name": {
+      "local": "Lubombo",
+      "en": "Lubombo",
+      "slug": "lubombo-sz4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.827",
+    "lon": "31.927"
+  },
+  "metadata": {},
+  "source": {}
+}

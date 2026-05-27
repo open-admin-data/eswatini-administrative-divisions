@@ -1,0 +1,45 @@
+{
+  "id": "SZ217",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Mafutseni",
+    "en": "Mafutseni",
+    "slug": "mafutseni-sz217"
+  },
+  "code": {
+    "id": "SZ217",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.453",
+    "lon": "31.529"
+  },
+  "metadata": {},
+  "source": {}
+}

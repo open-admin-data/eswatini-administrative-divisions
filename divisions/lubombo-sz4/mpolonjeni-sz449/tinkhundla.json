@@ -1,0 +1,45 @@
+{
+  "id": "SZ449",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Mpolonjeni",
+    "en": "Mpolonjeni",
+    "slug": "mpolonjeni-sz449"
+  },
+  "code": {
+    "id": "SZ449",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ4",
+    "level": 1,
+    "name": {
+      "local": "Lubombo",
+      "en": "Lubombo",
+      "slug": "lubombo-sz4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.589",
+    "lon": "31.878"
+  },
+  "metadata": {},
+  "source": {}
+}

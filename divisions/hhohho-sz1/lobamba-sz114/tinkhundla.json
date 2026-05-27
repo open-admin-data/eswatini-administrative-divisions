@@ -1,0 +1,45 @@
+{
+  "id": "SZ114",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Lobamba",
+    "en": "Lobamba",
+    "slug": "lobamba-sz114"
+  },
+  "code": {
+    "id": "SZ114",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ1",
+    "level": 1,
+    "name": {
+      "local": "Hhohho",
+      "en": "Hhohho",
+      "slug": "hhohho-sz1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.411",
+    "lon": "31.178"
+  },
+  "metadata": {},
+  "source": {}
+}

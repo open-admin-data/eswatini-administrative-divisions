@@ -1,0 +1,45 @@
+{
+  "id": "SZ452",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Dvokodvweni",
+    "en": "Dvokodvweni",
+    "slug": "dvokodvweni-sz452"
+  },
+  "code": {
+    "id": "SZ452",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ4",
+    "level": 1,
+    "name": {
+      "local": "Lubombo",
+      "en": "Lubombo",
+      "slug": "lubombo-sz4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.446",
+    "lon": "31.752"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "SZ4",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Lubombo",
+    "en": "Lubombo",
+    "slug": "lubombo-sz4"
+  },
+  "code": {
+    "id": "SZ4",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "tinkhundla": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.547",
+    "lon": "31.861"
+  },
+  "metadata": {},
+  "source": {}
+}

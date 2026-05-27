@@ -1,0 +1,45 @@
+{
+  "id": "SZ101",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Timphisini",
+    "en": "Timphisini",
+    "slug": "timphisini-sz101"
+  },
+  "code": {
+    "id": "SZ101",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ1",
+    "level": 1,
+    "name": {
+      "local": "Hhohho",
+      "en": "Hhohho",
+      "slug": "hhohho-sz1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.781",
+    "lon": "31.437"
+  },
+  "metadata": {},
+  "source": {}
+}

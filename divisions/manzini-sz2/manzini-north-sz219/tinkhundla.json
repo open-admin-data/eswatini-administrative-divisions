@@ -1,0 +1,45 @@
+{
+  "id": "SZ219",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Manzini North",
+    "en": "Manzini North",
+    "slug": "manzini-north-sz219"
+  },
+  "code": {
+    "id": "SZ219",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.485",
+    "lon": "31.397"
+  },
+  "metadata": {},
+  "source": {}
+}

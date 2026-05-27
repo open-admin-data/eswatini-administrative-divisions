@@ -1,0 +1,45 @@
+{
+  "id": "SZ454",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Mhlume",
+    "en": "Mhlume",
+    "slug": "mhlume-sz454"
+  },
+  "code": {
+    "id": "SZ454",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ4",
+    "level": 1,
+    "name": {
+      "local": "Lubombo",
+      "en": "Lubombo",
+      "slug": "lubombo-sz4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.109",
+    "lon": "31.814"
+  },
+  "metadata": {},
+  "source": {}
+}

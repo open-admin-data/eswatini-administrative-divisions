@@ -1,0 +1,45 @@
+{
+  "id": "SZ108",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Pigg's Peak",
+    "en": "Pigg's Peak",
+    "slug": "piggs-peak-sz108"
+  },
+  "code": {
+    "id": "SZ108",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ1",
+    "level": 1,
+    "name": {
+      "local": "Hhohho",
+      "en": "Hhohho",
+      "slug": "hhohho-sz1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.96",
+    "lon": "31.24"
+  },
+  "metadata": {},
+  "source": {}
+}

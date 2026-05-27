@@ -1,0 +1,45 @@
+{
+  "id": "SZ223",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Lobamba Lomdzala",
+    "en": "Lobamba Lomdzala",
+    "slug": "lobamba-lomdzala-sz223"
+  },
+  "code": {
+    "id": "SZ223",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.519",
+    "lon": "31.223"
+  },
+  "metadata": {},
+  "source": {}
+}

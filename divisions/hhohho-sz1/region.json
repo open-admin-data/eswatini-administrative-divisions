@@ -1,0 +1,29 @@
+{
+  "id": "SZ1",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Hhohho",
+    "en": "Hhohho",
+    "slug": "hhohho-sz1"
+  },
+  "code": {
+    "id": "SZ1",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "tinkhundla": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.089",
+    "lon": "31.365"
+  },
+  "metadata": {},
+  "source": {}
+}

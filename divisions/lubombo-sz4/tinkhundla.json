@@ -1,0 +1,497 @@
+[
+  {
+    "id": "SZ452",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Dvokodvweni",
+      "en": "Dvokodvweni",
+      "slug": "dvokodvweni-sz452"
+    },
+    "code": {
+      "id": "SZ452",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.446",
+      "lon": "31.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ453",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Hlane",
+      "en": "Hlane",
+      "slug": "hlane-sz453"
+    },
+    "code": {
+      "id": "SZ453",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.281",
+      "lon": "31.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ455",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Lomahasha",
+      "en": "Lomahasha",
+      "slug": "lomahasha-sz455"
+    },
+    "code": {
+      "id": "SZ455",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.074",
+      "lon": "32.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ445",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Lubuli",
+      "en": "Lubuli",
+      "slug": "lubuli-sz445"
+    },
+    "code": {
+      "id": "SZ445",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.026",
+      "lon": "31.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ451",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Lugongolweni",
+      "en": "Lugongolweni",
+      "slug": "lugongolweni-sz451"
+    },
+    "code": {
+      "id": "SZ451",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.335",
+      "lon": "32.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ450",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Matsanjeni North",
+      "en": "Matsanjeni North",
+      "slug": "matsanjeni-north-sz450"
+    },
+    "code": {
+      "id": "SZ450",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.667",
+      "lon": "32.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ454",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mhlume",
+      "en": "Mhlume",
+      "slug": "mhlume-sz454"
+    },
+    "code": {
+      "id": "SZ454",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.109",
+      "lon": "31.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ449",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mpolonjeni",
+      "en": "Mpolonjeni",
+      "slug": "mpolonjeni-sz449"
+    },
+    "code": {
+      "id": "SZ449",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.589",
+      "lon": "31.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ447",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Nkilongo",
+      "en": "Nkilongo",
+      "slug": "nkilongo-sz447"
+    },
+    "code": {
+      "id": "SZ447",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.827",
+      "lon": "31.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ448",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Siphofaneni",
+      "en": "Siphofaneni",
+      "slug": "siphofaneni-sz448"
+    },
+    "code": {
+      "id": "SZ448",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.662",
+      "lon": "31.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ446",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Sithobela",
+      "en": "Sithobela",
+      "slug": "sithobela-sz446"
+    },
+    "code": {
+      "id": "SZ446",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ4",
+        "level": 1,
+        "name": {
+          "local": "Lubombo",
+          "en": "Lubombo",
+          "slug": "lubombo-sz4"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.884",
+      "lon": "31.611"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

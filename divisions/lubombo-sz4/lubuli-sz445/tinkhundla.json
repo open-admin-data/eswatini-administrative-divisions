@@ -1,0 +1,45 @@
+{
+  "id": "SZ445",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Lubuli",
+    "en": "Lubuli",
+    "slug": "lubuli-sz445"
+  },
+  "code": {
+    "id": "SZ445",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ4",
+    "level": 1,
+    "name": {
+      "local": "Lubombo",
+      "en": "Lubombo",
+      "slug": "lubombo-sz4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ4",
+      "level": 1,
+      "name": {
+        "local": "Lubombo",
+        "en": "Lubombo",
+        "slug": "lubombo-sz4"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-27.026",
+    "lon": "31.841"
+  },
+  "metadata": {},
+  "source": {}
+}

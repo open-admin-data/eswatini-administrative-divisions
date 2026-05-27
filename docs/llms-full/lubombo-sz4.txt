@@ -1,0 +1,64 @@
+# Lubombo — Eswatini Administrative Divisions
+
+> 11 tinkhundlas
+> Code: SZ4
+> Coordinates: -26.547, 31.861
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Tinkhundlas
+
+### Dvokodvweni
+
+Code: SZ452, Coordinates: -26.446, 31.752
+
+
+### Hlane
+
+Code: SZ453, Coordinates: -26.281, 31.814
+
+
+### Lomahasha
+
+Code: SZ455, Coordinates: -26.074, 32.009
+
+
+### Lubuli
+
+Code: SZ445, Coordinates: -27.026, 31.841
+
+
+### Lugongolweni
+
+Code: SZ451, Coordinates: -26.335, 32.001
+
+
+### Matsanjeni North
+
+Code: SZ450, Coordinates: -26.667, 32.074
+
+
+### Mhlume
+
+Code: SZ454, Coordinates: -26.109, 31.814
+
+
+### Mpolonjeni
+
+Code: SZ449, Coordinates: -26.589, 31.878
+
+
+### Nkilongo
+
+Code: SZ447, Coordinates: -26.827, 31.927
+
+
+### Siphofaneni
+
+Code: SZ448, Coordinates: -26.662, 31.671
+
+
+### Sithobela
+
+Code: SZ446, Coordinates: -26.884, 31.611
+
+

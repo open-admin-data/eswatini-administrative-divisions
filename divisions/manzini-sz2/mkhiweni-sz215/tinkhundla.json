@@ -1,0 +1,45 @@
+{
+  "id": "SZ215",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Mkhiweni",
+    "en": "Mkhiweni",
+    "slug": "mkhiweni-sz215"
+  },
+  "code": {
+    "id": "SZ215",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.296",
+    "lon": "31.557"
+  },
+  "metadata": {},
+  "source": {}
+}

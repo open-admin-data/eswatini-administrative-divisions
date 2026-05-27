@@ -1,0 +1,45 @@
+{
+  "id": "SZ222",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Ludzeludze",
+    "en": "Ludzeludze",
+    "slug": "ludzeludze-sz222"
+  },
+  "code": {
+    "id": "SZ222",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.4",
+    "lon": "31.314"
+  },
+  "metadata": {},
+  "source": {}
+}

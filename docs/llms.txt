@@ -1,0 +1,58 @@
+# Eswatini Administrative Divisions
+
+> Open dataset of Eswatini's administrative hierarchy:
+> 4 regions, 55 tinkhundlas.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 4
+- Total tinkhundlas: 55
+- Coordinates: included (all levels)
+- Last updated: 2026-05-27
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/eswatini-administrative-divisions/main/data/all-region.json)
+- [All tinkhundlas (JSON)](https://raw.githubusercontent.com/open-admin-data/eswatini-administrative-divisions/main/data/all-tinkhundla.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/eswatini-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/eswatini-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/eswatini-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Hhohho](https://github.com/open-admin-data/eswatini-administrative-divisions/tree/main/divisions/hhohho-sz1/) — 14 tinkhundlas
+- [Lubombo](https://github.com/open-admin-data/eswatini-administrative-divisions/tree/main/divisions/lubombo-sz4/) — 11 tinkhundlas
+- [Manzini](https://github.com/open-admin-data/eswatini-administrative-divisions/tree/main/divisions/manzini-sz2/) — 16 tinkhundlas
+- [Shiselweni](https://github.com/open-admin-data/eswatini-administrative-divisions/tree/main/divisions/shiselweni-sz3/) — 14 tinkhundlas
+
+## Per-Region Full Data
+
+- [Hhohho](https://raw.githubusercontent.com/open-admin-data/eswatini-administrative-divisions/main/docs/llms-full/hhohho-sz1.txt)
+- [Lubombo](https://raw.githubusercontent.com/open-admin-data/eswatini-administrative-divisions/main/docs/llms-full/lubombo-sz4.txt)
+- [Manzini](https://raw.githubusercontent.com/open-admin-data/eswatini-administrative-divisions/main/docs/llms-full/manzini-sz2.txt)
+- [Shiselweni](https://raw.githubusercontent.com/open-admin-data/eswatini-administrative-divisions/main/docs/llms-full/shiselweni-sz3.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (tinkhundla)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Eswatini Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/eswatini-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

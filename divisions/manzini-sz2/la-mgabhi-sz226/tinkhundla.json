@@ -1,0 +1,45 @@
+{
+  "id": "SZ226",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "La-Mgabhi",
+    "en": "La-Mgabhi",
+    "slug": "la-mgabhi-sz226"
+  },
+  "code": {
+    "id": "SZ226",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.559",
+    "lon": "31.09"
+  },
+  "metadata": {},
+  "source": {}
+}

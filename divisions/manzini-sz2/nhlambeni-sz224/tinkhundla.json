@@ -1,0 +1,45 @@
+{
+  "id": "SZ224",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Nhlambeni",
+    "en": "Nhlambeni",
+    "slug": "nhlambeni-sz224"
+  },
+  "code": {
+    "id": "SZ224",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.636",
+    "lon": "31.438"
+  },
+  "metadata": {},
+  "source": {}
+}

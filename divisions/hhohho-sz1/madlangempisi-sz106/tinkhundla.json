@@ -1,0 +1,45 @@
+{
+  "id": "SZ106",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Madlangempisi",
+    "en": "Madlangempisi",
+    "slug": "madlangempisi-sz106"
+  },
+  "code": {
+    "id": "SZ106",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ1",
+    "level": 1,
+    "name": {
+      "local": "Hhohho",
+      "en": "Hhohho",
+      "slug": "hhohho-sz1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ1",
+      "level": 1,
+      "name": {
+        "local": "Hhohho",
+        "en": "Hhohho",
+        "slug": "hhohho-sz1"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.092",
+    "lon": "31.557"
+  },
+  "metadata": {},
+  "source": {}
+}

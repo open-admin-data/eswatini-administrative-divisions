@@ -1,0 +1,19 @@
+# Eswatini Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Hhohho](https://github.com/open-admin-data/eswatini-administrative-divisions/blob/main/docs/llms-full/hhohho-sz1.txt) — 14 tinkhundlas
+- [Lubombo](https://github.com/open-admin-data/eswatini-administrative-divisions/blob/main/docs/llms-full/lubombo-sz4.txt) — 11 tinkhundlas
+- [Manzini](https://github.com/open-admin-data/eswatini-administrative-divisions/blob/main/docs/llms-full/manzini-sz2.txt) — 16 tinkhundlas
+- [Shiselweni](https://github.com/open-admin-data/eswatini-administrative-divisions/blob/main/docs/llms-full/shiselweni-sz3.txt) — 14 tinkhundlas
+
+## Summary
+
+| Region | Tinkhundlas | 
+|---|---|
+| Hhohho | 14 | 
+| Lubombo | 11 | 
+| Manzini | 16 | 
+| Shiselweni | 14 | 

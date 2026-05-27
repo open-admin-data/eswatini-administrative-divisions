@@ -1,0 +1,118 @@
+[
+  {
+    "id": "SZ1",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Hhohho",
+      "en": "Hhohho",
+      "slug": "hhohho-sz1"
+    },
+    "code": {
+      "id": "SZ1",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "tinkhundla": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.089",
+      "lon": "31.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ4",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Lubombo",
+      "en": "Lubombo",
+      "slug": "lubombo-sz4"
+    },
+    "code": {
+      "id": "SZ4",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "tinkhundla": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.547",
+      "lon": "31.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ2",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    },
+    "code": {
+      "id": "SZ2",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "tinkhundla": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.528",
+      "lon": "31.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ3",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Shiselweni",
+      "en": "Shiselweni",
+      "slug": "shiselweni-sz3"
+    },
+    "code": {
+      "id": "SZ3",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "tinkhundla": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.036",
+      "lon": "31.331"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,5 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.tinkhundla,zip_codes,geo.lat,geo.lon
+SZ1,1,Region,Region,Hhohho,Hhohho,hhohho-sz1,SZ1,,,,,,14,,-26.089,31.365
+SZ2,1,Region,Region,Manzini,Manzini,manzini-sz2,SZ2,,,,,,16,,-26.528,31.184
+SZ3,1,Region,Region,Shiselweni,Shiselweni,shiselweni-sz3,SZ3,,,,,,14,,-27.036,31.331
+SZ4,1,Region,Region,Lubombo,Lubombo,lubombo-sz4,SZ4,,,,,,11,,-26.547,31.861

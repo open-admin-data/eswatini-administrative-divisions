@@ -1,0 +1,29 @@
+{
+  "id": "SZ2",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Manzini",
+    "en": "Manzini",
+    "slug": "manzini-sz2"
+  },
+  "code": {
+    "id": "SZ2",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "tinkhundla": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.528",
+    "lon": "31.184"
+  },
+  "metadata": {},
+  "source": {}
+}

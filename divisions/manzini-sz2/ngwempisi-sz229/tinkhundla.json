@@ -1,0 +1,45 @@
+{
+  "id": "SZ229",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Ngwempisi",
+    "en": "Ngwempisi",
+    "slug": "ngwempisi-sz229"
+  },
+  "code": {
+    "id": "SZ229",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.725",
+    "lon": "30.947"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SZ221",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Kwaluseni",
+    "en": "Kwaluseni",
+    "slug": "kwaluseni-sz221"
+  },
+  "code": {
+    "id": "SZ221",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.504",
+    "lon": "31.319"
+  },
+  "metadata": {},
+  "source": {}
+}

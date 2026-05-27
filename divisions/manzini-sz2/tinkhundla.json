@@ -1,0 +1,722 @@
+[
+  {
+    "id": "SZ216",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Kukhanyeni",
+      "en": "Kukhanyeni",
+      "slug": "kukhanyeni-sz216"
+    },
+    "code": {
+      "id": "SZ216",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.371",
+      "lon": "31.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ221",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Kwaluseni",
+      "en": "Kwaluseni",
+      "slug": "kwaluseni-sz221"
+    },
+    "code": {
+      "id": "SZ221",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.504",
+      "lon": "31.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ226",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "La-Mgabhi",
+      "en": "La-Mgabhi",
+      "slug": "la-mgabhi-sz226"
+    },
+    "code": {
+      "id": "SZ226",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.559",
+      "lon": "31.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ223",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Lobamba Lomdzala",
+      "en": "Lobamba Lomdzala",
+      "slug": "lobamba-lomdzala-sz223"
+    },
+    "code": {
+      "id": "SZ223",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.519",
+      "lon": "31.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ222",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Ludzeludze",
+      "en": "Ludzeludze",
+      "slug": "ludzeludze-sz222"
+    },
+    "code": {
+      "id": "SZ222",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.4",
+      "lon": "31.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ217",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mafutseni",
+      "en": "Mafutseni",
+      "slug": "mafutseni-sz217"
+    },
+    "code": {
+      "id": "SZ217",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.453",
+      "lon": "31.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ230",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mahlangatsha",
+      "en": "Mahlangatsha",
+      "slug": "mahlangatsha-sz230"
+    },
+    "code": {
+      "id": "SZ230",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.79",
+      "lon": "31.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ228",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mangcongco",
+      "en": "Mangcongco",
+      "slug": "mangcongco-sz228"
+    },
+    "code": {
+      "id": "SZ228",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.551",
+      "lon": "30.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ219",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Manzini North",
+      "en": "Manzini North",
+      "slug": "manzini-north-sz219"
+    },
+    "code": {
+      "id": "SZ219",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.485",
+      "lon": "31.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ220",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Manzini South",
+      "en": "Manzini South",
+      "slug": "manzini-south-sz220"
+    },
+    "code": {
+      "id": "SZ220",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.524",
+      "lon": "31.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ227",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mhlambanyatsi",
+      "en": "Mhlambanyatsi",
+      "slug": "mhlambanyatsi-sz227"
+    },
+    "code": {
+      "id": "SZ227",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.434",
+      "lon": "30.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ215",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mkhiweni",
+      "en": "Mkhiweni",
+      "slug": "mkhiweni-sz215"
+    },
+    "code": {
+      "id": "SZ215",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.296",
+      "lon": "31.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ218",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Mthongwaneni",
+      "en": "Mthongwaneni",
+      "slug": "mthongwaneni-sz218"
+    },
+    "code": {
+      "id": "SZ218",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.58",
+      "lon": "31.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ229",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Ngwempisi",
+      "en": "Ngwempisi",
+      "slug": "ngwempisi-sz229"
+    },
+    "code": {
+      "id": "SZ229",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.725",
+      "lon": "30.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ224",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Nhlambeni",
+      "en": "Nhlambeni",
+      "slug": "nhlambeni-sz224"
+    },
+    "code": {
+      "id": "SZ224",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.636",
+      "lon": "31.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SZ225",
+    "level": 2,
+    "level_name": {
+      "local": "Tinkhundla",
+      "en": "Tinkhundla"
+    },
+    "name": {
+      "local": "Ntondozi",
+      "en": "Ntondozi",
+      "slug": "ntondozi-sz225"
+    },
+    "code": {
+      "id": "SZ225",
+      "iso": null
+    },
+    "parent": {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SZ2",
+        "level": 1,
+        "name": {
+          "local": "Manzini",
+          "en": "Manzini",
+          "slug": "manzini-sz2"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.636",
+      "lon": "31.322"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

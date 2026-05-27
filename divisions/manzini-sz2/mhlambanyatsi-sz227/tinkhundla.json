@@ -1,0 +1,45 @@
+{
+  "id": "SZ227",
+  "level": 2,
+  "level_name": {
+    "local": "Tinkhundla",
+    "en": "Tinkhundla"
+  },
+  "name": {
+    "local": "Mhlambanyatsi",
+    "en": "Mhlambanyatsi",
+    "slug": "mhlambanyatsi-sz227"
+  },
+  "code": {
+    "id": "SZ227",
+    "iso": null
+  },
+  "parent": {
+    "id": "SZ2",
+    "level": 1,
+    "name": {
+      "local": "Manzini",
+      "en": "Manzini",
+      "slug": "manzini-sz2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SZ2",
+      "level": 1,
+      "name": {
+        "local": "Manzini",
+        "en": "Manzini",
+        "slug": "manzini-sz2"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.434",
+    "lon": "30.961"
+  },
+  "metadata": {},
+  "source": {}
+}

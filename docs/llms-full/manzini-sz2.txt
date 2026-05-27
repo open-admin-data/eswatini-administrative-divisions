@@ -1,0 +1,89 @@
+# Manzini — Eswatini Administrative Divisions
+
+> 16 tinkhundlas
+> Code: SZ2
+> Coordinates: -26.528, 31.184
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Tinkhundlas
+
+### Kukhanyeni
+
+Code: SZ216, Coordinates: -26.371, 31.419
+
+
+### Kwaluseni
+
+Code: SZ221, Coordinates: -26.504, 31.319
+
+
+### La-Mgabhi
+
+Code: SZ226, Coordinates: -26.559, 31.09
+
+
+### Lobamba Lomdzala
+
+Code: SZ223, Coordinates: -26.519, 31.223
+
+
+### Ludzeludze
+
+Code: SZ222, Coordinates: -26.4, 31.314
+
+
+### Mafutseni
+
+Code: SZ217, Coordinates: -26.453, 31.529
+
+
+### Mahlangatsha
+
+Code: SZ230, Coordinates: -26.79, 31.219
+
+
+### Mangcongco
+
+Code: SZ228, Coordinates: -26.551, 30.864
+
+
+### Manzini North
+
+Code: SZ219, Coordinates: -26.485, 31.397
+
+
+### Manzini South
+
+Code: SZ220, Coordinates: -26.524, 31.37
+
+
+### Mhlambanyatsi
+
+Code: SZ227, Coordinates: -26.434, 30.961
+
+
+### Mkhiweni
+
+Code: SZ215, Coordinates: -26.296, 31.557
+
+
+### Mthongwaneni
+
+Code: SZ218, Coordinates: -26.58, 31.516
+
+
+### Ngwempisi
+
+Code: SZ229, Coordinates: -26.725, 30.947
+
+
+### Nhlambeni
+
+Code: SZ224, Coordinates: -26.636, 31.438
+
+
+### Ntondozi
+
+Code: SZ225, Coordinates: -26.636, 31.322
+
+
